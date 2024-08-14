@@ -3,7 +3,7 @@
 Quantum Tic-Tac-Toe is an adaptation of the classic Tic-Tac-Toe game designed to introduce concepts from quantum mechanics such as superposition, entanglement, and measurement collapse. In this game, instead of simply placing an X or O in a square, players place quantum "spooky" markers that can exist in multiple squares simultaneously. The game progresses with these quantum markers until a cyclic loop is detected, forcing a collapse to a classical state. The winner is determined based on the final state of the board after all quantum states have collapsed.
 
 ## Complete steps from 1-5 
-https://github.com/Roua91/Quantum-Computing-for-Quantum-Curious/blob/main/Labs/tic_tac_toe/Quantum_tic_tac_toe.py
+[Quantum_tic_tac_toe.py](https://github.com/Roua91/Quantum-Computing-for-Quantum-Curious/blob/main/Labs/tic_tac_toe/Quantum_tic_tac_toe.py)
 ### Step-by-Step Instructions
 
 #### **Step 1: Define the Game Board**
